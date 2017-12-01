@@ -10,7 +10,7 @@
 namespace SitecoreXDBHelper {
     
     
-    public partial class xDBHelper {
+    public partial class XDbHelper {
         
         /// <summary>
         /// form1 control.
@@ -56,6 +56,51 @@ namespace SitecoreXDBHelper {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Literal BrowserVersionLabel;
+        
+        /// <summary>
+        /// LastInteractions control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Literal LastInteractions;
+        
+        /// <summary>
+        /// LatestContacts control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Literal LatestContacts;
+        
+        /// <summary>
+        /// ClientIp control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Literal ClientIp;
+        
+        /// <summary>
+        /// GeoIpCountry control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Literal GeoIpCountry;
+        
+        /// <summary>
+        /// GeoIpCity control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Literal GeoIpCity;
         
         /// <summary>
         /// IdentificationLevel control.
